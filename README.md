@@ -1,4 +1,4 @@
-# Syndicated Bandits: A Framework for Auto TuningHyper-parameters in Contextual Bandit Algorithms
+# Syndicated Bandits: A Framework for Auto Tuning Hyper-parameters in Contextual Bandit Algorithms
 
 This repository is the official implementation of [Syndicated Bandits: A Framework for Auto TuningHyper-parameters in Contextual Bandit Algorithms].
 
