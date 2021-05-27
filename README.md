@@ -1,6 +1,6 @@
 # Syndicated Bandits: A Framework for Auto Tuning Hyper-parameters in Contextual Bandit Algorithms
 
-This repository is the official implementation of [Syndicated Bandits: A Framework for Auto TuningHyper-parameters in Contextual Bandit Algorithms].
+This repository is the official implementation of [Syndicated Bandits: A Framework for Auto Tuning Hyper-parameters in Contextual Bandit Algorithms].
 
 
 ## Requirements
@@ -10,6 +10,8 @@ To run the code, you will need
 ```
 Python3, NumPy, Matplotlib, R
 ```
+
+For experiments on the real dataset Movielens 100K, the raw data should be put in an appropriate path. See details in Section ``Real datasets`` for instructions.
 
 
 ## Commands
