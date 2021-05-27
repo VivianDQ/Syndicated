@@ -11,7 +11,7 @@ To run the code, you will need
 Python3, NumPy, Matplotlib, R
 ```
 
-For experiments on the real dataset Movielens 100K, the raw data should be put in an appropriate path. See details in Section ``Real datasets`` for instructions.
+For experiments on the real dataset Movielens 100K, the raw data should be put in an appropriate path. See details in Section ``Real datasets`` below for instructions.
 
 
 ## Commands
